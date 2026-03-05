@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALERT-004",
+  "timestamp": "2026-03-05T12:05:00Z",
+  "user": "sales.user@company.com",
+  "sender": "docusign@secure-docsign.com",
+  "subject": "DocuSign: Please review and sign",
+  "url": "https://secure-docsign.com/document/9f1c2a",
+  "attachment": null,
+  "reported_by_user": true,
+  "email_body_snippet": "You have a document awaiting signature. Review and sign using the secure link."
+}

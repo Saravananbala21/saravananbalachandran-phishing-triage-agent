@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALERT-001",
+  "timestamp": "2026-03-05T09:12:00Z",
+  "user": "employee1@company.com",
+  "sender": "security-update@micr0soft-support.com",
+  "subject": "Urgent: Reset your password immediately",
+  "url": "http://micr0soft-reset-password.com",
+  "attachment": null,
+  "reported_by_user": true,
+  "email_body_snippet": "Your mailbox will be disabled unless you reset your password now."
+}

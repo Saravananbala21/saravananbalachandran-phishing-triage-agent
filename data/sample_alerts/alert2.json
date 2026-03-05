@@ -1,0 +1,15 @@
+{
+  "alert_id": "ALERT-002",
+  "timestamp": "2026-03-05T10:03:00Z",
+  "user": "finance.user@company.com",
+  "sender": "ap@vendor-payments.com",
+  "subject": "Invoice Attached - Payment Overdue",
+  "url": null,
+  "attachment": {
+    "filename": "Invoice_88341.zip",
+    "file_type": "zip",
+    "sha256": "3f3b6b0b5f2b9a3f7f8d9b0a1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d"
+  },
+  "reported_by_user": false,
+  "email_body_snippet": "Please see attached invoice and remit payment today to avoid service interruption."
+}

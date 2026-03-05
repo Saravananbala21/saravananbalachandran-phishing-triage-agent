@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALERT-003",
+  "timestamp": "2026-03-05T11:22:00Z",
+  "user": "it.support@company.com",
+  "sender": "it-ops@company.internal",
+  "subject": "Planned VPN Maintenance Window",
+  "url": "https://intranet.company.com/it/vpn-maintenance",
+  "attachment": null,
+  "reported_by_user": false,
+  "email_body_snippet": "Reminder: VPN will be unavailable 01:00–02:00 UTC for scheduled maintenance."
+}

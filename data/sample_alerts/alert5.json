@@ -1,0 +1,15 @@
+{
+  "alert_id": "ALERT-005",
+  "timestamp": "2026-03-05T13:47:00Z",
+  "user": "hr.user@company.com",
+  "sender": "hr@company.com",
+  "subject": "Updated Employee Handbook (PDF)",
+  "url": null,
+  "attachment": {
+    "filename": "Employee_Handbook_2026.pdf",
+    "file_type": "pdf",
+    "sha256": "a1b2c3d4e5f60718293a4b5c6d7e8f90123456789abcdef0123456789abcdef01"
+  },
+  "reported_by_user": false,
+  "email_body_snippet": "Please review the updated handbook. Contact HR with any questions."
+}
